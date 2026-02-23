@@ -138,7 +138,7 @@ const AboutSection = () => {
               <div className="absolute inset-0 rounded-full border-2 border-primary/40 shadow-[0_0_30px_hsl(var(--primary)/0.2),0_0_60px_hsl(var(--secondary)/0.1)]" />
               {/* Photo */}
               <img
-                src="public\portfolio_img.png"
+                src="portfolio_img.png"
                 alt="Profile photo"
                 className="relative w-full h-full rounded-full object-cover z-10"
               />
